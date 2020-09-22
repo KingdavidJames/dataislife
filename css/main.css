@@ -1,0 +1,342 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color: #f2ab27;
+    font-size: 20.7px;
+}
+.fz{
+    font-size: medium;
+}
+html{
+    scroll-behavior: smooth;
+}
+.special{
+    color: snow;
+    letter-spacing: 4px;
+    margin-left: 50px;
+    font-size: 1.6em;
+}
+.border{
+    border: 1.3px solid black;
+}
+.co{
+    color: snow;
+    display: inline;
+}
+li{
+    padding: 15px;
+}
+ul{
+    font-size: 10px;
+}
+.ab{
+margin-left: 10px;
+}
+.ab2{
+    margin-left: 80px;
+}
+.brand{
+    float: left;
+}
+.mtop{
+    margin-top: 14px;
+}
+.mtop2{
+    margin-top: 20px;
+}
+.mtop3{
+    margin-top: 15px;
+}
+.mtop4{
+    margin: 30px auto;
+    padding-top: 50px;
+}
+.mbtp{
+    margin-bottom: 15px;
+}
+.mbtp2{
+    margin-bottom: 5px;
+}
+.mbtp3{
+    margin-bottom: 10px;
+}
+.mleft{
+    margin-left: 10%;
+}
+.mleft2{
+    margin-left: 20%;
+}
+.mright{
+    margin-right: 20px;
+}
+.navbar{
+    float: right
+}
+.header{
+    background-color: #d97d0d;
+    height: 65px;
+    padding: 1px 40px;
+    margin-bottom: 70px;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+}
+a{
+    text-decoration: none; 
+    color: white;
+}
+#salary{
+    color: #ff8c00;
+}
+a:hover{
+    color: #ff8c00;
+}
+.home1{
+    background-color: #323e40;
+    height: 100vh;
+    font-size: 40px;
+    color: white;
+    text-shadow: 8px 10px 10px black;
+}
+.one{
+    margin-left: 80px;
+    letter-spacing: 8px;
+    padding-top: 40px;
+}
+.none{
+    font-size: 10px;
+    text-shadow: none;
+    letter-spacing: 0.09px;
+}
+span{
+    color: #f2ab27;
+}
+.mid{
+    text-align: center;
+}
+.wi{
+    width: 18%;
+    border: none;
+    background-color: #d97d0d;
+    color: white;
+    border-radius: 15px;
+    height: 40px;
+    margin-left: 80px;
+    box-shadow: 4px 6px 10px black;
+    margin-top: 50px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #ff8c00;
+}
+button:active{
+    background-color: #732002;
+}
+.navbar ul a:hover{
+    color: #ff8c00;
+}
+.img{
+    margin-top: 28px;
+    height: 230px;
+    width: 27%;
+    float: left;
+    padding: 10px 10px;
+    margin-left: 240px;
+    color: black;
+}
+.sezy{
+    margin-top: 20px;
+        width: 50%;
+        height: 300px;
+        padding-right: 90px;
+        float: right;
+        color: black;
+        letter-spacing: 1px;
+}
+.ab2{
+    color: #ff8c00;
+    text-decoration: none;
+}
+.home2{
+    height: 100vh;
+    padding-top: 50px;
+}
+.wi2{
+    clear: both;
+    width: 28%;
+    border: none;
+    background-color: #d97d0d;
+    color: white;
+    border-radius: 15px;
+    height: 40px;
+    box-shadow: 3px 5px 10px black;
+    margin: 20px 30px 0px 190px;
+}
+.clear{
+    clear: both;
+}
+.home3{
+    background-color: white;
+    height: 100vh;
+}
+.container{
+    height: 440px;
+    width: 75%;
+    margin: 30px auto;
+    padding: 20px auto;
+    padding-top: 8px;
+}
+.left, .greetings{
+    float: left;
+    width: 50%;
+}
+.right{
+    float: right;
+    width: 50%;
+    border-left: 1.3px solid black;
+}
+.mtn, .glo, .etisalat, .airtel{
+    width: 300px;
+    height: 180px;
+    border-radius: 5px;
+    background-color: rgb(187, 255, 0);
+    text-align: center;
+    padding-top: 12.5%;
+    margin: 20px auto;
+    box-shadow: 0.8px 1.5px 5px black;
+}
+.etisalat, .glo{
+    background-color: green;
+}
+.airtel{
+    background-color: red;
+}
+.home4{
+    height: 100vh;
+    background-color: black;
+}
+.form{
+    float: right;
+    width: 50%;
+}
+.mtop4b{
+    margin: 20px auto;
+    padding-top: 20px;
+}
+.nform{
+    width: 370px;
+    height: 470px;
+    margin: 120px auto;
+    background-color: white;
+    padding: 20px 40px;
+    border-radius: 5px;
+}
+.two{
+    width: 100%;
+    font-size: small;
+    padding: 5px;
+}
+.two2{
+    font-size: 7em;
+    font-weight: bolder;
+}
+#wei{
+    font-weight: bolder;
+}
+.seven::placeholder{
+    color: rgb(160, 155, 155);
+} 
+.wi3{
+    width: 45%;
+    border-radius: 15px;
+    border: none;
+    background-color: #d97d0d;
+    height: 40px;
+    box-shadow: 4px 6px 9px black;
+    margin: 20px 93px;
+}
+.four{
+    color: rgb(119, 102, 102);
+    margin: 4px 1px;
+}
+.mini{
+    margin: 0px 18px 18px 80px;
+}
+.new{
+   color: #732002;
+}
+.contact{
+    float: right;
+    border: 1px solid none;
+    border-radius: 15px;
+    height: 60vh;
+    width: 40vh;
+    margin-right: 20%;
+    background-color: white;
+}
+.color, .mtn, .glo, .etisalat, .airtel{
+    color: white;
+}
+.inline{
+    display: inline;
+}
+.pd{
+    padding: 68px 90px;
+}
+.pd50{
+    padding: 40px;
+}
+.block{
+    display: block;
+    width: 100%;
+    margin-bottom: 0.6em;
+    padding: 7px;
+}
+.form2{
+    background-color: #f2ab27;
+    border-radius: 15px;
+    width: 45%;
+    float: right;
+    margin-top: 30px;
+}
+.pd30{
+    padding: 20px;
+}
+.footer{
+    background-color: #d97d0d;
+    width: 100%;
+    padding: 5px;
+    font-size: small;
+}
+.links{
+    float: right;
+    margin-right: 30%;
+}
+.icofont-twitter, .icofont-whatsapp, .icofont-facebook, .icofont-instagram, .icofont-pinterest{
+    background-color: #d97d0d;
+}
+.em{
+    margin-right: 10px;
+}
+.icofont-instagram:hover{
+    color: rgb(29, 54, 75);
+}
+.icofont-twitter:hover{
+    color: #00acee;
+}
+.icofont-whatsapp:hover{
+    color: rgb(27, 146, 27);
+}
+.icofont-facebook:hover{
+    color: #3b5998;
+}
+.icofont-pinterest:hover{
+    color: #c8232c;
+}
+.icofont-brand-etisalat{
+    font-size: 1.3em;
+}
